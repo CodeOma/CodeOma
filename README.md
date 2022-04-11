@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeOma
--  I’m interested in learning 
-- Current project https://wrestledb.netlify.app/
+- 👋 Hi, I’m Omar
+-  I’m interested in computer science and try to continiously learn.
+
 
